@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ThursdayTrivia3</string>
+
+    <string name="restaurant1">Honest</string>
+    <string name="restaurant2">Rangoli Park</string>
+    <string name="restaurant3">Sugar n Spice</string>
+    <string name="restaurant4">The Basil Park</string>
+    <string name="restaurant5">Saffron</string>
+
+    <string name="description1">Pav Bhaji, Dhosa, Chole-Bhature</string>
+    <string name="description2">Paneer tikka, Pannet Butter Masala, Paneer Handi</string>
+    <string name="description3">Dalbati, Dal fry, Jira rice</string>
+    <string name="description4">Vadapav, Dabeli, Sev puri, Bhel</string>
+    <string name="description5">Manchurian, Nudels, Maggie</string>
+
+    <string name="rating1">4.8</string>
+    <string name="rating2">4.3</string>
+    <string name="rating3">3.8</string>
+    <string name="rating4">4.9</string>
+    <string name="rating5">4.0</string>
+
+    <string name="price1">₹100 for one</string>
+    <string name="price2">₹300 for one</string>
+    <string name="price3">₹120 for one</string>
+    <string name="price4">₹50 for one</string>
+    <string name="price5">₹200 for one</string>
+
+</resources>
